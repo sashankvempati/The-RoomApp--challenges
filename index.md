@@ -5,7 +5,7 @@
 Here's the problem I noticed in my college. I have heard from people about my college library having almost no spots available during exam seasons like midterms and finals weeks. I also decided to go survey the library for a couple of days during final exams week to see the availability of space, and here are the results:
 
 ## Saturday, 8:00 pm
-![Availability on Sat](https://i.imgur.com/uPxuyjh.jpg)
+![Availability on Sat](https://i.imgur.com/wgKtqSX.png)
 
 ## Sunday, 2:30 pm
 ![Availability on Sun](https://i.imgur.com/5xr1HER.jpg)
