@@ -38,4 +38,11 @@ For those who do not/ have not gone to ucsd, Each floor represents a different t
 
 This is a snapshot I took of the study room reservations webpage on a normal day at 4:00 pm (when there are no exams or major projects due):
 
-[Insert study space reservations here]
+## On the same day
+![Room Reservation Same Day](https://i.imgur.com/yB7Se0k.jpg)
+
+
+## 4 days later
+![Room Reservation after 4 days](https://i.imgur.com/kee7Tvz.jpg)
+
+
