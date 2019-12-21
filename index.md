@@ -28,9 +28,9 @@ For those who do not/ have not gone to ucsd, Each floor represents a different t
 #### Based on the type of study environments these floors have, my assumption is that students like to have active discussion with each other. They also like studying in the 8th floor because there would be no disturbance and has a better ambience compared to other floors.
 
 ### Based on my observations, I came up with a few hypotheses: 
-> Students tend to like having active discussions when studying/ working
-> They would like having a quiet environment
-> They tend to like having a good room ambience when doing work
+- Students tend to like having active discussions when studying/ working
+- They would like having a quiet environment
+- They tend to like having a good room ambience when doing work
 
 In order to have all these, reserving study rooms seems like the best option. Except, these reservations get filled up even faster on average.
 
