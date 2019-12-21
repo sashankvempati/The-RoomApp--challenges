@@ -1,37 +1,38 @@
-## Welcome to GitHub Pages
+# What problem am I trying to solve?
 
-You can use the [editor on GitHub](https://github.com/sashankvempati/The-RoomApp--challenges/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+Here's the problem I noticed in my college. I have heard from people about my college library having almost no spots available during exam seasons like midterms and finals weeks. I also decided to go survey the library for a couple of days during final exams week to see the availability of space, and here are the results:
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+**Saturday, 8:00 pm**
 
-### Markdown
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+**Sunday, 2:30 pm**
+![Availability on Sun](https://lh3.googleusercontent.com/VIwZJru4zYviuxcaNhh7-iZQrCFCK9s-mj5W4636oGvewrAY5uCdPfXrtHdhZI9rPq-d-HCLsXKDY5OiSZ1AludIV-vMjoBrxbgqQIPFo0na04qO3ie-OVgELdJM_PNTpcAKrhBRs-Tsiq4gxTA00Pt8kckyAbDtaVZD9L5RiA5xvpyMMNfwitEtNqTdHzZKxE3DkCieK3DSMZMwDtyf4r3m2ARcpfyG4GQfAuzGvCfCXhy9ltIjadZATXUXjz7YKpvJkxI6SmhgqESryD-b5Sni7Ei-X4mSHtH7zZ-H8HvCYB7VZDtLZcGGgeNRf0wueSwfB8OAGrqgGrO8LiVzVNDMBsxYv1Kc8zQ1OGYNoX7L4qCys3qBksHjvRDWbtLFzgcH1sw8zxE_jsBO4b-TApgSJwHEdwbouhWLoGzZq90P3bIvqBGebYjMZe4NzqQBRP5YGkm5fGwzIWetzW_jIZMN9Kio-soGXIlnNtHBrx2QZ9rPiSjF4lv5gp-2uVxwQtiZgldiI1CoQ63N017wAV7WZzQwSEtkNcsTHeEB4txodqkqbQ7HGyL0gENapl3g2liMZ5zPyv-v6o4Pk083sHJbaZSSXJv3HTP86otx0NZSLEHvTPzd9gy1noZfF7pY4LxRdaWQH5cu3B10L9Z5OVf4m9U5Ms_1OtH4xJrE7Uoyx97RTw28cbhD=w1888-h1416-no)
 
-```markdown
-Syntax highlighted code block
+**Sunday, 9:00 pm**
+![Availability on Sun](https://lh3.googleusercontent.com/EJ1aAL0zR5WJV6MQHDa-FbDLJU5no4K7QOkeFL5GBl6V0sp7yOVM9cNA7WpSFQGnDUsn_34-DV5H-dW8F20WPCxTCeD554E7QG6CRUOzYdyuMepBAw_T3la3EW3WuGBSvqEfRGU95UAudIjRUy4u9VDQYta1FPrR0AzUn9zSDk-FXcA3WsaI0REeCWV3PnBaZrI8RC3HqPfWIshJ48gdpMijE6HobLG5fQPnQ7cSFQ-kl7yX_aIJL_fHW9HpdPA-Y9vpYiIfUJAFRpgtO23sSwtH7iNwhwkjeP_gLv6XEt0KVu4-ZxZWI-_EAyQzkR7LPT_FD4Iz38jz43ubTgK1n9UlAuvfjNw4V5PrIFKwmHK6SkAmx3tAjT_IBI3ZICVF7LZkZtfWTMUo_XOIzKpBiLFr-c77RD8N-eVHwJZ6njevh8S_oRozd1QZhjQc7lec-HFZ656-ltt1ZZbDwQ2iTvChok_S8KDFx5uWOm3bAlwIHi5BD60oe5_lA7d1boc65g50Pf_qlhHCgFbJxZWQZROmZ4wrA311baDUo2H1tdSqzDIOFQ27b_a55SUxzfRqWECO3bR_gVW-QSf9DbFIvKjs5nRteuy1W7v208RhNCQYKlZWCY3HmrLrmNw_8a5P0jF7QBdi4gmzQWbOI3o9y6c4Fz4xb3Mxb4DacW41iIEzsmg56YvfQM7z=w1888-h1416-no)
 
-# Header 1
-## Header 2
-### Header 3
+**Monday, 4:00 pm**
+![Availability on Mon](https://lh3.googleusercontent.com/13ln3PGc_UNfRrq1yAWo4Z84Ej6dg_p9xLFFmnVcSZpo-vqk0Y2tQhh3L_H27rUUu4abnukbo615S-LR5mG3el3p41dEL5cSA_b9N7d-s428m-gvF1_eXIdOLLWg-275jF8F7VDm9JyyMXK5Lfhjw3Tcem4lFO4E6AvZW0OoNCP1I-yYBMZfYkpeAwN4ZY0LBmLdbSSgSGq4D2DeHoPiO-h-g8B3YNioeXRoPs7fYli2iU6oP817vxDQ3KlLaZTiC0T3D4siNUA-ov5vZJ7kLYfYeBdFwkLot14sEe4Xl4SpIfVKyyleUDLytPvkL5DUhs3VXkTyAmw1AUYXA2SyREiemoOeOZAyRZ9iwseUBVm0ZEPY-ZIs5LtBpEAzkJURI7ZY1VGFKMlSLOh6XJslH1vijd6O3JOtG0jWC-rHBy-3ff1Rs9CxGz7X6ycUsETcwPbSF4d4Lhbcz4inb8YEUlsra_jTzTuS95TpRzFoLcyOLgH6WRv3sSakbIYgtMNnWeCPbwaA5Wo6LpAizIFcViYJNO4ZtmQKRJMY86CRaD8gIygt0HMo3uyuzQXpmARX6VG41wvDeWvmjix5tvP7aJNjsphTYivQmljes_tztZAXxfFnfgD1ZtKVKsaDW8LiI3BatXp3NvxmufmfzOd69lZNo5MlrR_VwiL0nWncdQmPCspIOuBCIzHW=w1888-h1416-no)
 
-- Bulleted
-- List
+**Tuesday, 3:30 pm**
+![Availability on Tue](https://lh3.googleusercontent.com/By-f_dwOCBa534mLhsJYv4RXG-9ZbYZPKZkY7OU257UlNRjA6PF4TUW9N3VFs2QnS338Wt7Dvjluh9NjRNOqhqzyaiGRkyQLc5O_9uoZgn12AvXzA7hpotIIPCdbVQnX422tIQ6zBS9DTbwv5cdZgh13SWszNihQbTYgb4ItQRpK1W3FWFlysMDiKvCsuxouvEc2ua_nU2I5DJcFTGJDdlhS1WXw_9tQzGehzZ7K7IYNSVK8FlGQUZFce_pMC-ELCa5QewEvLqFR2hbNUnuzC6cS5w90WPY6waO9kHMzkGc35LSooIJY12w9VLkKVrJr9cGfh3dwfcPWZjlN4JRLDaBZfsVtuIJnFw0UHTqB4yPBB_2enz60Yj1rW4UHlQw_3OWhFVc9G-JGkR_qgPNP5FBu4rNvqopmPzZZfo1KxKLQ6xJVDMwE9ZmmaWGBKb5MUINSRxnFz-IM1tjAZS7o9h-_QurYg46Beowcl86Vcqr1sl4WmF4hglKVRDmBOzl0kIs4kpoWQcDX_9tVk2zkSk6Vuwy2AIzeo5jzAgeIkJffL-zwBeu-6g_h8J2EzTbqYw8xdCTqfgZcPIjMsD5ll1jk7LQYYHGcnvek7CZrS4XI4Kavn30PBEka5H0khywNVj7GgDe7LqZpYBBbSVMwoe8s2XnLQypB4VWDY8UD9oD8Eq_IwkPoBu73=w1888-h1416-no)
 
-1. Numbered
-2. List
+**Thursday, 1:00 pm**
+![Availability on Thu](https://lh3.googleusercontent.com/3BAEEdgROzwed675fKPvDjOmb2Vq144y1WOoGAi7whyqllzFSqfp1m_KHZctmz7vctwfugXQC8Bs4JkbHa-G8CU5mxqyKLUUNX2u6QLp7DElOBZ0RXn88Hs_owBRt3gUj1PavV9bba4Knsbr-ibk2xQqLWsTPkYdnIpYUUiiWU1mgxq9O_MbB50RZI2vTD7AXcHoUaNkRWp1KG13jZNYEqpdvsTuKSf7t_Coe0VG9GIi2zcLD8GJwxNJF9QGftdqDyMhC_v2olzA__ZUx94lrcBEZTAUfXlItNgmHF1Uh_O7artPIIMwAG1P99HeNpjvhEZzqX9sQ44B9SOBgfRQL3UF0u3Wc_FaqqTuC8Eyt5qv4Ew0fXg4hFQC6uaGOSOaX6hu8ov43EGozewuOtwcochansmKgkEOH0DXy1EJx8VyN1hbo_jHFOgGSwLEqKRB0TiWCj8iaU1pEh9_yxys4bfbVYQNroovsdBnNqug9dDa3JOeBXCTbZxWarRSrSbTtEu301xeJBoyrNU_tW78HvLhELzaH_N_g46u4Re0R-9mU-SlSveiDgApTDSaTGCg46gew3AVNXxcKfshFuLdOTjDNDJwrhALHFcTbLzJwP070HUtOXMx3jURC56zDXxztbwbPx4KQPg0UILm4e4QdQoUBByMXLo_nnrNt6FNIhsrjDFOMBNQY3Fl=w1888-h1416-no)
 
-**Bold** and _Italic_ and `Code` text
 
-[Link](url) and ![Image](src)
-```
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+For those who do not/ have not gone to ucsd, Each floor represents a different type of study environment. In the first two floors, normal talking and discussion is allowed. Floors 4- 7 allow whispering but overall should quiet. The eighth floor, talking is not allowed at all and should be completely quiet.
 
-### Jekyll Themes
+As you can see from the pictures above, you can see that floors 1, 2, and 8 are usually the busiest. Based on the type of study environment, my hypothesis is that students like to have active discussion with each other. They also like studying in the 8th floor because there would be no disturbance and has a better ambience compared to other floors.
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/sashankvempati/The-RoomApp--challenges/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+Based on my observations, I have come up with a few hypotheses: 
+- Students like to have active discussions when studying/ working
+- They would like having a quiet environment
+- They would prefer having a good room ambience when doing work
 
-### Support or Contact
+In order to have all these, reserving study rooms seems like the best option. Except, these reservations get filled up even faster on average.
 
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+This is a snapshot I took of the study room reservations webpage on a normal day at 4:00 pm (when there are no exams or major projects due):
+
+[Insert study space reservations here]
