@@ -24,12 +24,13 @@ Here's the problem I noticed in my college. I have heard from people about my co
 
 For those who do not/ have not gone to ucsd, Each floor represents a different type of study environment. In the first two floors, normal talking and discussion is allowed. Floors 4- 7 allow whispering but overall should quiet. The eighth floor, talking is not allowed at all and should be completely quiet.
 
-As you can see from the pictures above, you can see that floors 1, 2, and 8 are usually the busiest. Based on the type of study environment, my hypothesis is that students like to have active discussion with each other. They also like studying in the 8th floor because there would be no disturbance and has a better ambience compared to other floors.
+### As you can see from the pictures above, you can see that floors 1, 2, and 8 are usually the busiest. 
+#### Based on the type of study environments these floors have, my assumption is that students like to have active discussion with each other. They also like studying in the 8th floor because there would be no disturbance and has a better ambience compared to other floors.
 
-Based on my observations, I have come up with a few hypotheses: 
-- Students like to have active discussions when studying/ working
-- They would like having a quiet environment
-- They would prefer having a good room ambience when doing work
+### Based on my observations, I came up with a few hypotheses: 
+> Students tend to like having active discussions when studying/ working
+> They would like having a quiet environment
+> They tend to like having a good room ambience when doing work
 
 In order to have all these, reserving study rooms seems like the best option. Except, these reservations get filled up even faster on average.
 
