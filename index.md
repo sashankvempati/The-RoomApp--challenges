@@ -1,5 +1,7 @@
 # What problem am I trying to solve?
 
+![Library Picture](https://drive.google.com/open?id=1ZL26AXW0hzzb0HVh3uKI9YOo6HmlGt-G)
+
 Here's the problem I noticed in my college. I have heard from people about my college library having almost no spots available during exam seasons like midterms and finals weeks. I also decided to go survey the library for a couple of days during final exams week to see the availability of space, and here are the results:
 
 **Saturday, 8:00 pm**
