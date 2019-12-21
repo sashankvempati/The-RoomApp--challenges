@@ -8,19 +8,19 @@ Here's the problem I noticed in my college. I have heard from people about my co
 ![Availability on Sat](https://i.imgur.com/wgKtqSX.png)
 
 ## Sunday, 2:30 pm
-![Availability on Sun](https://i.imgur.com/5xr1HER.jpg)
+![Availability on Sun](https://i.imgur.com/gKxzNbC.png)
 
 ## Sunday, 9:00 pm
-![Availability on Sun](https://i.imgur.com/wPqY28A.jpg)
+![Availability on Sun](https://i.imgur.com/F71w5jj.png)
 
 ## Monday, 4:00 pm
-![Availability on Mon](https://i.imgur.com/Bh8XumJ.jpg)
+![Availability on Mon](https://i.imgur.com/oi4w1pC.png)
 
 ## Tuesday, 3:30 pm
-![Availability on Tue](https://i.imgur.com/7lhTcfv.jpg)
+![Availability on Tue](https://i.imgur.com/ui20khO.png)
 
 ## Thursday, 1:00 pm
-![Availability on Thu](https://i.imgur.com/8mzW17Y.jpg)
+![Availability on Thu](https://i.imgur.com/oOyesJx.png)
 
 
 
