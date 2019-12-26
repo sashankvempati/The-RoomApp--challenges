@@ -1,6 +1,6 @@
 # What problem am I trying to solve?
 
-![Library](https://i.imgur.com/4ut40VS.jpg)
+![Library](https://i.imgur.com/5C70yBL.jpg)
 
 Here's the problem I noticed in my college. I have heard from people about my college library having almost no spots available during exam seasons like midterms and finals weeks. I also decided to go survey the library for a couple of days during final exams week to see the availability of space, and here are the results:
 
